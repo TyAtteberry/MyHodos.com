@@ -1,4 +1,5 @@
-baseURL = "https://YOUR-GITHUB-USERNAME.github.io/myhodos/"
+baseURL = "https://tyatteberry.github.io/MyHodos.com/"
 languageCode = "en-us"
 title = "Father–Son Sailing Adventures"
 theme = ""
+publishDir = "docs"
